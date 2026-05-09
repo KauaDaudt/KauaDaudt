@@ -1,32 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:001F3F,70:00C2FF,100:000000&height=250&section=header&text=Kauã%20Daudt%20Gomes&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Developer%20em%20Formação%20%7C%20C%23%20%7C%20.NET%20%7C%20Java%20%7C%20APIs%20REST&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:001F3F,70:00E5FF,100:000000&height=250&section=header&text=Kauã%20Daudt%20Gomes&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Developer%20em%20Formação%20%7C%20C%23%20%7C%20.NET%20%7C%20Java%20%7C%20APIs%20REST&descAlignY=58&descSize=18"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Backend+em+formação;Estudante+de+ADS+na+FIAP;C%23+%7C+.NET+%7C+Java+%7C+SQL+%7C+Docker;Criando+APIs+REST+seguras+e+escaláveis;Transformando+ideias+em+soluções+reais;Sempre+aprendendo+e+evoluindo)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<div align="center">
-
-```txt
-                    🌕
-             🌲🌲🌲🌲🌲🌲
-         🌲🌲🌲🏚️🌲🌲🌲
-      🌲🌲🌲🌲🌲🌲🌲🌲🌲
-──────────────────────────────────────
-> system.online
-> night_mode.enabled
-> debugging...
-> path_found
-```
-
-</div>
-
----
-
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=1000&lines=Backend+Developer+em+formação;Estudante+de+ADS+na+FIAP;C%23+%7C+.NET+%7C+Java+%7C+SQL+%7C+Docker;Criando+APIs+REST+seguras+e+escaláveis;Transformando+ideias+em+soluções+reais;Sempre+aprendendo+e+evoluindo)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430px"/>
 
@@ -38,19 +14,17 @@
 
 ```txt
 > developer_mode = true
-> building_the_future...
-> searching_for_the_best_solution...
+> system_online = true
+> building_solutions...
 ```
 
 Olá! Me chamo **Kauã Daudt Gomes**, tenho 19 anos e sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP**.
 
-Sou um desenvolvedor backend em formação, apaixonado por tecnologia e por transformar ideias em soluções reais através do código.
+Sou um **desenvolvedor backend em formação**, com foco em **C#**, **.NET**, **Java**, **APIs REST**, **SQL**, **MySQL**, **Docker**, autenticação com **JWT** e boas práticas de arquitetura.
 
-Atualmente estudo e desenvolvo projetos utilizando **C#**, **.NET**, **Java**, **APIs REST**, **SQL**, **MySQL**, **Docker**, autenticação com **JWT** e boas práticas de arquitetura e organização de software.
+Tenho experiência com criação de APIs REST, documentação com Swagger, operações CRUD, integração com banco de dados e ambientes containerizados.
 
-Tenho experiência com criação de APIs REST, documentação com Swagger, operações CRUD completas, integração com banco de dados e ambientes containerizados utilizando Docker.
-
-Sou uma pessoa comunicativa, focada, curiosa e com facilidade para aprender. Gosto de desafios, trabalho em equipe e evolução constante.
+Sou comunicativo, dedicado, curioso, organizado e tenho facilidade para aprender novas tecnologias. Gosto de resolver problemas, trabalhar em equipe e evoluir constantemente.
 
 ---
 
@@ -77,27 +51,25 @@ Sou uma pessoa comunicativa, focada, curiosa e com facilidade para aprender. Gos
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,java,mysql,docker,git,github,js,python,html,css,vscode,visualstudio" />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![APIs REST](https://img.shields.io/badge/APIs_REST-02569B?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
+![APIs REST](https://img.shields.io/badge/APIs_REST-00E5FF?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Scalar](https://img.shields.io/badge/Scalar-1A1A1A?style=for-the-badge)
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -116,7 +88,8 @@ public class KauaDaudt
     {
         "C#", ".NET", "Java", "APIs REST",
         "SQL", "MySQL", "Docker",
-        "JWT", "Swagger", "Git", "GitHub"
+        "JWT", "Swagger", "Scalar",
+        "Git", "GitHub"
     };
 
     public void Evoluir()
@@ -139,12 +112,12 @@ public class KauaDaudt
 ✔ Autenticação e autorização com JWT
 ✔ CRUD completo com MySQL
 ✔ Documentação de APIs com Swagger
+✔ Testes de endpoints com Scalar API Client
 ✔ Integração com banco de dados SQL
 ✔ Versionamento com Git e GitHub
 ✔ Arquitetura em Camadas
 ✔ Containerização utilizando Docker
 ✔ Aplicação de boas práticas de código
-✔ Desenvolvimento de soluções escaláveis
 ```
 
 ---
@@ -238,19 +211,11 @@ Inglês: Intermediário
 
 ---
 
-# 🌙 Mentalidade
+# ⚡ Mentalidade
 
 <div align="center">
 
-```txt
-🌕 Mesmo nos momentos mais escuros,
-cada linha de código ajuda a encontrar um caminho.
-
-> estudar
-> praticar
-> resolver
-> evoluir
-```
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Aprender.;Praticar.;Resolver+problemas.;Criar+soluções.;Evoluir+todos+os+dias.)](https://git.io/typing-svg)
 
 </div>
 
@@ -276,4 +241,4 @@ cada linha de código ajuda a encontrar um caminho.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:00C2FF,70:001F3F,100:000000&height=180&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:00E5FF,70:001F3F,100:000000&height=180&section=footer&animation=twinkling"/>

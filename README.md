@@ -1,42 +1,44 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00BFFF,100:0D1117&height=220&section=header&text=Kauã%20Daudt%20Gomes&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20em%20Formação%20%7C%20C%23%20%7C%20.NET%20%7C%20Java&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:7A0000,70:FF1E1E,100:050505&height=230&section=header&text=Kauã%20Daudt%20Gomes&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20C%23%20%7C%20.NET%20%7C%20Java%20%7C%20APIs%20REST&descAlignY=58&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=BACKEND+DEVELOPER+EM+FORMAÇÃO;C%23+%7C+.NET+%7C+JAVA+%7C+APIs+REST;SQL+%7C+MYSQL+%7C+DOCKER+%7C+JWT;SEMPRE+APRENDENDO+E+EVOLUINDO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=FF3131&center=true&vCenter=true&width=1000&lines=%3E+initializing+developer_profile...;%3E+loading+fullstack_skills...;%3E+C%23+%7C+.NET+%7C+Java+%7C+SQL+%7C+Docker;%3E+building+clean+and+scalable+solutions...;%3E+OPEN+TO+WORK)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="380px"/>
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Code.+Build.+Improve.+Repeat.;Transformando+ideias+em+soluções+reais.;Sempre+aprendendo%2C+sempre+evoluindo." />
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre Mim
+<div align="center">
+
+![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-FF3131?style=for-the-badge&logo=target&logoColor=white)
+![Fullstack Developer](https://img.shields.io/badge/FULLSTACK%20DEVELOPER-111111?style=for-the-badge&logo=codeforces&logoColor=FF3131)
+![Brazil](https://img.shields.io/badge/BRAZIL-Rio%20das%20Ostras%20RJ-FF3131?style=for-the-badge)
+
+</div>
+
+---
+
+## Sobre mim
+
+<img align="right" width="360px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 Olá! Me chamo **Kauã Daudt Gomes**, tenho 19 anos e sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP**.
 
-Sou um **desenvolvedor backend em formação**, apaixonado por tecnologia, programação e criação de soluções através do código.
+Sou um **desenvolvedor Fullstack em formação**, com foco em desenvolvimento backend, APIs REST, banco de dados, autenticação, arquitetura de software e boas práticas de código.
 
-Atualmente estudo e desenvolvo aplicações utilizando **C#**, **.NET**, **Java**, **APIs REST**, **SQL**, **MySQL**, **Docker**, autenticação com **JWT** e boas práticas de arquitetura de software.
+Atualmente estudo e desenvolvo soluções utilizando **C#**, **.NET**, **Java**, **SQL**, **MySQL**, **Docker**, **JWT**, **Swagger**, **Git**, **GitHub**, **JavaScript**, **Python**, **HTML** e **CSS**.
 
-Estou sempre buscando evoluir tecnicamente, aprender novas tecnologias e desenvolver soluções cada vez mais organizadas, seguras e escaláveis.
+Tenho facilidade para aprender, gosto de resolver problemas e busco evoluir constantemente criando aplicações organizadas, seguras e escaláveis.
 
----
-
-## 🧠 Soft Skills
-
-- Comunicação
-- Trabalho em equipe
-- Facilidade de aprendizado
-- Resolução de problemas
-- Organização
-- Pensamento crítico
-- Adaptabilidade
-- Proatividade
-- Evolução constante
+<br clear="right"/>
 
 ---
 
-# 🚀 Tech Stack
+## Hard Skills
 
 <div align="center">
 
@@ -48,130 +50,126 @@ Estou sempre buscando evoluir tecnicamente, aprender novas tecnologias e desenvo
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![APIs REST](https://img.shields.io/badge/APIs_REST-00BFFF?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=FF3131)
+![.NET](https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=dotnet&logoColor=FF3131)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=FF3131)
+![APIs REST](https://img.shields.io/badge/APIs%20REST-111111?style=for-the-badge&logo=fastapi&logoColor=FF3131)
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Scalar](https://img.shields.io/badge/Scalar-1A1A1A?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=database&logoColor=FF3131)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=FF3131)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=FF3131)
+![JWT](https://img.shields.io/badge/JWT-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=FF3131)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-111111?style=for-the-badge&logo=swagger&logoColor=FF3131)
+![Scalar](https://img.shields.io/badge/Scalar-111111?style=for-the-badge&logo=api&logoColor=FF3131)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=FF3131)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FF3131)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
----
-
-# 📊 Nível de Conhecimento
-
-<div align="center">
-
-<img width="420px" src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['C%23%20/%20.NET','SQL%20/%20MySQL','Java','Docker','JavaScript','Python','HTML%20/%20CSS'],datasets:[{data:[25,18,14,12,11,10,10],backgroundColor:['%2368217A','%2300BFFF','%23ED8B00','%232496ED','%23F7DF1E','%233776AB','%23E34F26']}]} ,options:{plugins:{legend:{labels:{color:'white',font:{size:14}}},title:{display:true,text:'Conhecimentos%20em%20Evolução',color:'white',font:{size:20}}},backgroundColor:'#0D1117'}}" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-![C#/.NET](https://img.shields.io/badge/C%23%20%2F%20.NET-Em%20evolução%20constante-68217A?style=for-the-badge)
-![SQL/MySQL](https://img.shields.io/badge/SQL%20%2F%20MySQL-Intermediário-00BFFF?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-Estudando%20e%20praticando-ED8B00?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-Ambientes%20containerizados-2496ED?style=for-the-badge)
-![Git/GitHub](https://img.shields.io/badge/Git%20%2F%20GitHub-Versionamento-0D1117?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=FF3131)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FF3131)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=FF3131)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=FF3131)
 
 </div>
 
 ---
 
-# 📚 Formação Acadêmica
+## Nível de Conhecimento
 
-### FIAP — Faculdade de Informática e Administração Paulista  
-**Análise e Desenvolvimento de Sistemas**  
+<div align="center">
+
+<img width="430px" src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['C%23%20/%20.NET','SQL%20/%20MySQL','Java','Docker','JavaScript','Python','HTML%20/%20CSS'],datasets:[{data:[25,18,14,12,11,10,10],backgroundColor:['%23FF3131','%238B0000','%23FF5C5C','%23B22222','%23FF7777','%23CC0000','%23660000'],borderColor:'%23000000',borderWidth:2}]},options:{plugins:{legend:{labels:{color:'white',font:{size:14}}},title:{display:true,text:'Conhecimentos%20em%20Evolução',color:'white',font:{size:20}}},backgroundColor:'#050505'}}" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=900&color=FF3131&center=true&vCenter=true&width=850&lines=C%23+e+.NET+como+foco+principal;SQL+e+MySQL+para+estruturação+de+dados;Java+em+evolução+constante;Docker+para+ambientes+padronizados;Git+e+GitHub+para+versionamento)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## Soft Skills
+
+<div align="center">
+
+![Comunicação](https://img.shields.io/badge/Comunicação-111111?style=for-the-badge&logo=wechat&logoColor=FF3131)
+![Trabalho em Equipe](https://img.shields.io/badge/Trabalho%20em%20Equipe-111111?style=for-the-badge&logo=teamspeak&logoColor=FF3131)
+![Aprendizado Rápido](https://img.shields.io/badge/Aprendizado%20Rápido-111111?style=for-the-badge&logo=bookstack&logoColor=FF3131)
+![Resolução de Problemas](https://img.shields.io/badge/Resolução%20de%20Problemas-111111?style=for-the-badge&logo=codementor&logoColor=FF3131)
+
+![Organização](https://img.shields.io/badge/Organização-111111?style=for-the-badge&logo=notion&logoColor=FF3131)
+![Pensamento Crítico](https://img.shields.io/badge/Pensamento%20Crítico-111111?style=for-the-badge&logo=brainly&logoColor=FF3131)
+![Adaptabilidade](https://img.shields.io/badge/Adaptabilidade-111111?style=for-the-badge&logo=probot&logoColor=FF3131)
+![Proatividade](https://img.shields.io/badge/Proatividade-111111?style=for-the-badge&logo=rocket&logoColor=FF3131)
+
+</div>
+
+---
+
+## Formação Acadêmica
+
+<div align="center">
+
+```txt
+FIAP - Faculdade de Informática e Administração Paulista
+
+Análise e Desenvolvimento de Sistemas
 2026 - 2027
-
----
-
-# 📜 Certificações
-
-- Desenvolvimento em C# com Orientação a Objetos – Alura
-- APIs REST com C# e LINQ – Alura
-- Git e GitHub para versionamento – Alura
-- Imersão Front-End com IA – Alura
-- Fundamentos de Programação – FIAP / Impacta
-
----
-
-# 🌎 Idiomas
-
-- Português — Nativo
-- Inglês — Intermediário
-
----
-
-# 📍 Disponibilidade
-
-- Remoto
-- Híbrido
-- Presencial em Rio das Ostras - RJ
-- Presencial em Macaé - RJ
-- Região dos Lagos e região próxima
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=KauaDaudt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaDaudt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF"/>
+```
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## Disponibilidade
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KauaDaudt&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"/>
+![Remoto](https://img.shields.io/badge/Remoto-Disponível-111111?style=for-the-badge&logo=homeassistant&logoColor=FF3131)
+![Híbrido](https://img.shields.io/badge/Híbrido-Disponível-111111?style=for-the-badge&logo=googlemeet&logoColor=FF3131)
+![Presencial](https://img.shields.io/badge/Presencial-Rio%20das%20Ostras%20%7C%20Macaé%20%7C%20Região-111111?style=for-the-badge&logo=googlemaps&logoColor=FF3131)
 
 </div>
 
 ---
 
-# 📈 Atividade no GitHub
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KauaDaudt&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KauaDaudt&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=FF3131&icon_color=FF3131&text_color=FFFFFF"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaDaudt&layout=compact&theme=dark&hide_border=true&bg_color=050505&title_color=FF3131&text_color=FFFFFF"/>
 
 </div>
 
 ---
 
-# 📫 Contato
+## Atividade no GitHub
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauã%20Daudt%20Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-daudt-848548345/)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KauaDaudt&theme=redical&hide_border=true&bg_color=050505&color=FF3131&line=FF3131&point=FFFFFF"/>
 
-[![Email](https://img.shields.io/badge/Email-kauadtg%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauadtg@gmail.com)
+</div>
 
-[![Telefone](https://img.shields.io/badge/Telefone-%2B55%2022%2099772--5541-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5522997725541)
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-KauaDaudt-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KauaDaudt)
+## Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauã%20Daudt%20Gomes-111111?style=for-the-badge&logo=linkedin&logoColor=FF3131)](https://www.linkedin.com/in/kau%C3%A3-daudt-848548345/)
+
+[![Email](https://img.shields.io/badge/Email-kauadtg%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=FF3131)](mailto:kauadtg@gmail.com)
+
+[![Telefone](https://img.shields.io/badge/Telefone-%2B55%2022%2099772--5541-111111?style=for-the-badge&logo=whatsapp&logoColor=FF3131)](https://wa.me/5522997725541)
+
+[![GitHub](https://img.shields.io/badge/GitHub-KauaDaudt-111111?style=for-the-badge&logo=github&logoColor=FF3131)](https://github.com/KauaDaudt)
+
+[![Currículo](https://img.shields.io/badge/Currículo-Acessar%20PDF-FF3131?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1jdH2Y6MQKLacA4HkzrzlmIRCN_LsAkPg/view?usp=drive_link)
 
 </div>
 
@@ -179,8 +177,8 @@ Estou sempre buscando evoluir tecnicamente, aprender novas tecnologias e desenvo
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=OBRIGADO+POR+VISITAR+MEU+PERFIL!;SEMPRE+APRENDENDO.;SEMPRE+EVOLUINDO.;SEMPRE+CODANDO.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=700&color=FF3131&center=true&vCenter=true&width=1000&lines=%3E+profile_build_completed;%3E+ready_to_create_solutions;%3E+open_to_work;%3E+thanks_for_visiting)](https://git.io/typing-svg)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00BFFF,100:0D1117&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:7A0000,70:FF1E1E,100:050505&height=150&section=footer&animation=twinkling"/>

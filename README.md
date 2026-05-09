@@ -10,7 +10,15 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420px"/>
+<img width="900px" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0F172A,100:000000&height=120&section=header&text=🌙%20Coding%20through%20the%20night%20%7C%20Debugging%20until%20the%20path%20is%20clear%20🏚️&fontSize=20&fontColor=00E5FF&animation=twinkling"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430px"/>
 
 </div>
 
@@ -21,3 +29,4 @@
 ```txt
 > developer_mode = true
 > building_the_future...
+> searching_for_the_best_solution...

@@ -1,90 +1,8 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:7A0000,70:FF1E1E,100:050505&height=230&section=header&text=Kauã%20Daudt%20Gomes&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20C%23%20%7C%20.NET%20%7C%20Java%20%7C%20APIs%20REST&descAlignY=58&descSize=18"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=FF3131&center=true&vCenter=true&width=1000&lines=%3E+initializing+developer_profile...;%3E+loading+fullstack_skills...;%3E+C%23+%7C+.NET+%7C+Java+%7C+SQL+%7C+Docker;%3E+building+clean+and+scalable+solutions...;%3E+OPEN+TO+WORK)](https://git.io/typing-svg)
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Code.+Build.+Improve.+Repeat.;Transformando+ideias+em+soluções+reais.;Sempre+aprendendo%2C+sempre+evoluindo." />
-
-</div>
-
----
-
-<div align="center">
-
-![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-FF3131?style=for-the-badge&logo=target&logoColor=white)
-![Fullstack Developer](https://img.shields.io/badge/FULLSTACK%20DEVELOPER-111111?style=for-the-badge&logo=codeforces&logoColor=FF3131)
-![Brazil](https://img.shields.io/badge/BRAZIL-Rio%20das%20Ostras%20RJ-FF3131?style=for-the-badge)
-
-</div>
-
----
-
-## Sobre mim
-
-<img align="right" width="360px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-Olá! Me chamo **Kauã Daudt Gomes**, tenho 19 anos e sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP**.
-
-Sou um **desenvolvedor Fullstack em formação**, com foco em desenvolvimento backend, APIs REST, banco de dados, autenticação, arquitetura de software e boas práticas de código.
-
-Atualmente estudo e desenvolvo soluções utilizando **C#**, **.NET**, **Java**, **SQL**, **MySQL**, **Docker**, **JWT**, **Swagger**, **Git**, **GitHub**, **JavaScript**, **Python**, **HTML** e **CSS**.
-
-Tenho facilidade para aprender, gosto de resolver problemas e busco evoluir constantemente criando aplicações organizadas, seguras e escaláveis.
-
-<br clear="right"/>
-
----
-
-## Hard Skills
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,mysql,docker,git,github,js,python,html,css,vscode,visualstudio" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=FF3131)
-![.NET](https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=dotnet&logoColor=FF3131)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=FF3131)
-![APIs REST](https://img.shields.io/badge/APIs%20REST-111111?style=for-the-badge&logo=fastapi&logoColor=FF3131)
-
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=database&logoColor=FF3131)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=FF3131)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=FF3131)
-![JWT](https://img.shields.io/badge/JWT-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=FF3131)
-
-![Swagger](https://img.shields.io/badge/Swagger-111111?style=for-the-badge&logo=swagger&logoColor=FF3131)
-![Scalar](https://img.shields.io/badge/Scalar-111111?style=for-the-badge&logo=api&logoColor=FF3131)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=FF3131)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FF3131)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=FF3131)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FF3131)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=FF3131)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=FF3131)
-
-</div>
-
----
-
 ## Nível de Conhecimento
 
 <div align="center">
 
-<img width="430px" src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['C%23%20/%20.NET','SQL%20/%20MySQL','Java','Docker','JavaScript','Python','HTML%20/%20CSS'],datasets:[{data:[25,18,14,12,11,10,10],backgroundColor:['%23FF3131','%238B0000','%23FF5C5C','%23B22222','%23FF7777','%23CC0000','%23660000'],borderColor:'%23000000',borderWidth:2}]},options:{plugins:{legend:{labels:{color:'white',font:{size:14}}},title:{display:true,text:'Conhecimentos%20em%20Evolução',color:'white',font:{size:20}}},backgroundColor:'#050505'}}" />
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=900&color=FF3131&center=true&vCenter=true&width=850&lines=C%23+e+.NET+como+foco+principal;SQL+e+MySQL+para+estruturação+de+dados;Java+em+evolução+constante;Docker+para+ambientes+padronizados;Git+e+GitHub+para+versionamento)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=700&color=FF3131&center=true&vCenter=true&width=900&lines=%3E+knowledge_level.loading...;%3E+C%23+%2F+.NET+%5B████████░░%5D+80%25;%3E+SQL+%2F+MySQL+%5B███████░░░%5D+70%25;%3E+Java+%5B██████░░░░%5D+60%25;%3E+Docker+%5B██████░░░░%5D+60%25;%3E+JavaScript+%5B█████░░░░░%5D+50%25;%3E+Python+%5B█████░░░░░%5D+50%25;%3E+HTML+%2F+CSS+%5B██████░░░░%5D+60%25" />
 
 </div>
 
@@ -135,23 +53,11 @@ Análise e Desenvolvimento de Sistemas
 
 ---
 
-## GitHub Stats
+## Atividade
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KauaDaudt&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=FF3131&icon_color=FF3131&text_color=FFFFFF"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaDaudt&layout=compact&theme=dark&hide_border=true&bg_color=050505&title_color=FF3131&text_color=FFFFFF"/>
-
-</div>
-
----
-
-## Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KauaDaudt&theme=redical&hide_border=true&bg_color=050505&color=FF3131&line=FF3131&point=FFFFFF"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&duration=1800&pause=300&color=FF3131&center=true&vCenter=true&width=900&lines=01010100+01100101+01100011+01101000;01100010+01110101+01101001+01101100+01100100;01100011+01101111+01100100+01100101;01100110+01110101+01101100+01101100+01110011+01110100+01100001+01100011+01101011;01101111+01110000+01100101+01101110+00100000+01110100+01101111+00100000+01110111+01101111+01110010+01101011" />
 
 </div>
 
@@ -177,8 +83,6 @@ Análise e Desenvolvimento de Sistemas
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=700&color=FF3131&center=true&vCenter=true&width=1000&lines=%3E+profile_build_completed;%3E+ready_to_create_solutions;%3E+open_to_work;%3E+thanks_for_visiting)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=1700&pause=350&color=FF3131&center=true&vCenter=true&width=950&lines=10101010101010101010101010101010;01010101010101010101010101010101;11001100110011001100110011001100;00110011001100110011001100110011;%3E+profile_build_completed;%3E+open_to_work;%3E+ready_to_create_solutions" />
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:7A0000,70:FF1E1E,100:050505&height=150&section=footer&animation=twinkling"/>

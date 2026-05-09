@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00BFFF,100:0D1117&height=220&section=header&text=Kauã%20Daudt%20Gomes&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20em%20Formação%20%7C%20C%23%20%7C%20.NET%20%7C%20Java&descAlignY=58&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Backend+Developer+em+formação;Estudante+de+ADS+na+FIAP;C%23+%7C+.NET+%7C+Java+%7C+APIs+REST;SQL+%7C+Docker+%7C+JWT+%7C+GitHub;Sempre+aprendendo+e+evoluindo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=BACKEND+DEVELOPER+EM+FORMAÇÃO;C%23+%7C+.NET+%7C+JAVA+%7C+APIs+REST;SQL+%7C+MYSQL+%7C+DOCKER+%7C+JWT;SEMPRE+APRENDENDO+E+EVOLUINDO)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="380px"/>
 
@@ -14,7 +14,7 @@
 
 Olá! Me chamo **Kauã Daudt Gomes**, tenho 19 anos e sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP**.
 
-Sou um desenvolvedor backend em formação, apaixonado por tecnologia, programação e criação de soluções através do código.
+Sou um **desenvolvedor backend em formação**, apaixonado por tecnologia, programação e criação de soluções através do código.
 
 Atualmente estudo e desenvolvo aplicações utilizando **C#**, **.NET**, **Java**, **APIs REST**, **SQL**, **MySQL**, **Docker**, autenticação com **JWT** e boas práticas de arquitetura de software.
 
@@ -67,6 +67,28 @@ Estou sempre buscando evoluir tecnicamente, aprender novas tecnologias e desenvo
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+---
+
+# 📊 Nível de Conhecimento
+
+<div align="center">
+
+<img width="420px" src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['C%23%20/%20.NET','SQL%20/%20MySQL','Java','Docker','JavaScript','Python','HTML%20/%20CSS'],datasets:[{data:[25,18,14,12,11,10,10],backgroundColor:['%2368217A','%2300BFFF','%23ED8B00','%232496ED','%23F7DF1E','%233776AB','%23E34F26']}]} ,options:{plugins:{legend:{labels:{color:'white',font:{size:14}}},title:{display:true,text:'Conhecimentos%20em%20Evolução',color:'white',font:{size:20}}},backgroundColor:'#0D1117'}}" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+![C#/.NET](https://img.shields.io/badge/C%23%20%2F%20.NET-Em%20evolução%20constante-68217A?style=for-the-badge)
+![SQL/MySQL](https://img.shields.io/badge/SQL%20%2F%20MySQL-Intermediário-00BFFF?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-Estudando%20e%20praticando-ED8B00?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Ambientes%20containerizados-2496ED?style=for-the-badge)
+![Git/GitHub](https://img.shields.io/badge/Git%20%2F%20GitHub-Versionamento-0D1117?style=for-the-badge)
 
 </div>
 
@@ -147,6 +169,8 @@ Estou sempre buscando evoluir tecnicamente, aprender novas tecnologias e desenvo
 
 [![Email](https://img.shields.io/badge/Email-kauadtg%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauadtg@gmail.com)
 
+[![Telefone](https://img.shields.io/badge/Telefone-%2B55%2022%2099772--5541-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5522997725541)
+
 [![GitHub](https://img.shields.io/badge/GitHub-KauaDaudt-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KauaDaudt)
 
 </div>
@@ -155,7 +179,7 @@ Estou sempre buscando evoluir tecnicamente, aprender novas tecnologias e desenvo
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Obrigado+por+visitar+meu+perfil!;Sempre+aprendendo.;Sempre+evoluindo.;Sempre+codando.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=OBRIGADO+POR+VISITAR+MEU+PERFIL!;SEMPRE+APRENDENDO.;SEMPRE+EVOLUINDO.;SEMPRE+CODANDO.)](https://git.io/typing-svg)
 
 </div>
 

@@ -1,5 +1,3 @@
-# README - Kauã Daudt Gomes
-
 ## 👨‍💻 Sobre Mim
 
 Olá! Me chamo Kauã Daudt Gomes, sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e atualmente estou focado no desenvolvimento backend utilizando C# e .NET.
